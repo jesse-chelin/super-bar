@@ -1,3 +1,3 @@
 # super-bar
 
-Super Bar is
+Super Bar is cool
