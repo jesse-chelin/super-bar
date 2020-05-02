@@ -3,6 +3,11 @@
 ;===========Nord Color Scheme=============;
 ;=========================================;
 
+;====Standard====;
+
+Black=000000
+White=FFFFFF
+
 ;====Polar Night====;
 
 Nord0=2E3440
