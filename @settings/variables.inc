@@ -5,6 +5,9 @@
 ;=========================================;
 
 ;Choose your Weather Location from http://www.weather.com/
+USERNAME="Jesse Chelin"
+
+;Choose your Weather Location from http://www.weather.com/
 WeatherCode=ASXX0016
 
 ;Choose your Units: m=Metric, i=Imperial;
